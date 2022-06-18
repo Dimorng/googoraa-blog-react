@@ -1,0 +1,11 @@
+@import "./blogContent.css";
+@import "./blogAside.css";
+
+.blog-body {
+  max-width: var(--maximum-width);
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  align-items: baseline;
+  color: var(--text-color--20);
+}

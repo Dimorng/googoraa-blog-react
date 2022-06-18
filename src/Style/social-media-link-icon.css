@@ -1,0 +1,26 @@
+.social-media-icon-link {
+  display: flex;
+  height: 1.5em;
+  align-items: center;
+  gap: 0.2em;
+  font-size: 0.9rem;
+}
+
+.social-media-icon {
+  width: 1em;
+  align-self: stretch;
+  background-image: url("../static/icons/Twitter.svg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position: center;
+}
+
+.social-media-icon.social-media-icon--twiiter {
+  background-image: url("../static/icons/Twitter.svg");
+}
+.social-media-icon.social-media-icon--facebook {
+  background-image: url("../static/icons/Facebook.svg");
+}
+.social-media-icon.social-media-icon--telegram {
+  background-image: url("../static/icons/Telegram.svg");
+}

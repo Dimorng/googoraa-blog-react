@@ -1,0 +1,37 @@
+:root {
+  --background-color: #404040;
+  --text-color: white;
+
+  --link-text-hover: #9bff9b;
+
+  --nav-logo-fill: var(--text-color);
+}
+
+header {
+  --background-color: #1e1e1e;
+}
+
+/* --------------------- */
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+header {
+  background-color: var(--background-color);
+  opacity: 0.8;
+}
+
+.nav-logo svg {
+  fill: var(--nav-logo-fill);
+}
+
+.nav-list-item a,
+.nav-list-item a:visited {
+  color: var(--text-color);
+}
+
+.search-icon {
+  fill: var(--text-color);
+}

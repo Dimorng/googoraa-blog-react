@@ -1,0 +1,26 @@
+@import_normalize;
+@import "./typography.css";
+@import "./lightTheme.css";
+@import "./button.css";
+@import "./input.css";
+@import "./Header.css";
+@import "./blog-body.css";
+@import "./link.css";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+/* site dimension */
+
+:root {
+  --maximum-width: 1230px;
+  --maximum-width__main-contain: 850px;
+  --maximum-width__aside-contin: 380px;
+  --maximum-width__main-article: 750px;
+}

@@ -1,0 +1,12 @@
+<svg width="40" height="39.8" version="1.1" viewBox="0 0 40 39.8" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:url(#SVGID_1_);}
+	.st1{fill:#FFFFFF;}</style>
+ <linearGradient id="SVGID_1_" x1="-277.38" x2="-277.38" y1="406.6" y2="407.57" gradientTransform="matrix(40 0 0 -39.778 11115 16212)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#0062E0" offset="0"/>
+  <stop stop-color="#19AFFF" offset="1"/>
+ </linearGradient>
+ <g shape-rendering="auto">
+  <path d="m16.7 39.8c-8.4073-1.3795-15.472-8.5812-16.514-17.064-1.1241-7.4805 2.5042-15.355 8.8525-19.442 6.4475-4.375 15.476-4.375 21.923 0 6.3483 4.0868 9.9767 11.961 8.8525 19.442-1.0426 8.4832-8.1069 15.685-16.514 17.064-0.55934-0.39256-1.0054-1.1025-1.7771-0.9-1.2617 0.047376-2.591-0.09493-3.8102 0.071464-0.33755 0.27618-0.6751 0.55236-1.0127 0.82854z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#00cc2c" image-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+  <path d="m27.8 25.6c0.3-1.8667 0.6-3.7333 0.9-5.6h-5.3c0.03237-1.5836-0.07354-3.1754 0.07119-4.7525 0.16075-1.4832 1.7772-2.0586 3.0748-1.9475h2.454v-5.1c-2.992-0.41833-6.3591-0.90846-9.0425 0.84598-2.3634 1.4703-3.3032 4.3996-3.1575 7.0651v3.8889h-5v5.6h5v14.1c2.176 0.39938 4.424 0.39938 6.6 0v-14.1h4.4z" color="#000000" color-rendering="auto" dominant-baseline="auto" fill="#fff" image-rendering="auto" solid-color="#000000" stop-color="#000000" style="font-feature-settings:normal;font-variant-alternates:normal;font-variant-caps:normal;font-variant-east-asian:normal;font-variant-ligatures:normal;font-variant-numeric:normal;font-variant-position:normal;font-variation-settings:normal;inline-size:0;isolation:auto;mix-blend-mode:normal;shape-margin:0;shape-padding:0;text-decoration-color:#000000;text-decoration-line:none;text-decoration-style:solid;text-indent:0;text-orientation:mixed;text-transform:none;white-space:normal"/>
+ </g>
+</svg>

@@ -1,0 +1,36 @@
+:root {
+  --accent-background-color: hsl(133, 100%, 94%);
+  --accent-text-color: hsl(133, 100%, 40%);
+  --accent-text-color-10: hsl(133, 100%, 30%);
+
+  --background-color: white;
+  --text-color: black;
+  --text-color--40: hsl(0, 0%, 40%);
+  --text-color--20: hsl(0, 0%, 20%);
+
+  --link-text-hover: #9bff9b;
+}
+
+/* --------------------- */
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+.header {
+  background-color: var(--accent-background-color);
+}
+
+svg.googoraa-nav-logo {
+  fill: var(--accent-text-color);
+}
+
+.nav-list-item a,
+.nav-list-item a:visited {
+  color: var(--text-color);
+}
+
+.search-icon {
+  fill: var(--text-color);
+}

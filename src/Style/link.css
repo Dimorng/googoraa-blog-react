@@ -1,0 +1,10 @@
+.link {
+  color: var(--accent-text-color);
+  text-decoration: none;
+  background: none;
+  outline: none;
+}
+
+.link:hover {
+  color: var(--accent-text-color-10);
+}
